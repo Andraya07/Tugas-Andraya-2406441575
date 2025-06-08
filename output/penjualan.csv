@@ -1,0 +1,7 @@
+kode,nama,jenis,harga,stok,total_stok,diskon,harga_akhir,Harga_jual,Keuntungan
+2,lifebou,shampoo,20000,200,200,0.15,17000.0,20000.0,0.0
+21,daokndak,bulpen,2000,20,20,0.0,2000.0,2000.0,0.0
+1,Sunslik,Shampoo,20000,5,5,0.15,17000.0,20000.0,0.0
+6,ABCD,Minuman,23000,40,40,0.0,23000.0,23000.0,0.0
+2,lifebou,shampoo,20000,200,200,0.15,17000.0,20000.0,0.0
+1,dove,sabun,10000,100,100,0.1,9000.0,10000.0,0.0
